@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460403245819",
+    "firebase_url": "https://spermbank-db649.firebaseio.com",
+    "project_id": "spermbank-db649",
+    "storage_bucket": "spermbank-db649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460403245819:android:f0bb677eacafb71c6d665e",
+        "android_client_info": {
+          "package_name": "com.example.spermbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460403245819-0pfc8butd7m5d04uscm42jv8oi69g227.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spermbank",
+            "certificate_hash": "a5d214fbc45a0609e2dff1ddca1db5c9deca51d5"
+          }
+        },
+        {
+          "client_id": "460403245819-9d9da1o6b28hb83j034s3v27h1duovn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDciQhBYOMvu-rf6CMyfxUt23QwFm3PvoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460403245819-9d9da1o6b28hb83j034s3v27h1duovn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

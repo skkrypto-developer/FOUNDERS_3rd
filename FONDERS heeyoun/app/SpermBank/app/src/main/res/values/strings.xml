@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpermBank</string>
+    <string name="app_name_1">Open</string>
+    <string name="app_name_2">Crypto Wallet</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Etherscan</string>
+    <string name="subtitle_1">Manage your cryptowallet securely</string>
+    <string name="subtitle_2">Powered by Samsung Blockchain Keystore SDK</string>
+    <string name="get_started">Start</string>
+</resources>
