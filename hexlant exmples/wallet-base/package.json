@@ -10,7 +10,7 @@
   "dependencies": {
     "debug": "~2.6.9",
     "ejs": "^3.0.1",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "express-session": "^1.17.0",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.8",
